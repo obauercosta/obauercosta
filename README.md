@@ -6,6 +6,11 @@ Estudante de Ciência da Computação com sólida base no ecossistema Java e Jav
 
 ---
 
+### Objetivo Profissional
+Tenho interesse genuíno em atuar como estagiário em **Desenvolvimento de Software, Engenharia de Dados ou QA/Testes**, priorizando o crescimento técnico e a resolução de problemas complexos.
+
+---
+
 ### Tecnologias e Habilidades
 
 * **Linguagens:** Java (Core/OOP), JavaScript (ES6+), Python, C, HTML5, CSS3.

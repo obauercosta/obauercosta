@@ -34,7 +34,7 @@ Tenho interesse genuíno em atuar como estagiário em **Desenvolvimento de Softw
 ---
 
 ### 📊 Estatísticas de Código
-![Estatísticas de Matheus](https://github-readme-stats.vercel.app/api?username=obauercosta&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Estatísticas de Matheus](https://github-readme-stats.vercel.app/api?username=obauercosta&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1)
 ---
 
 ### 📫 Contato e Idiomas
